@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brevan N Mom\'s Full Service Pizza</string>
+    <string name="business_name">Brevan &amp; Mom\'s Full Service Pizza</string>
+    <string name="business_slogan">Where every pizza is $5 and comes with FREE Bread!</string>
+    <string name="contact_info">Phone: 818-555-4249 \nEmail: Orders@BNMPizza.com \nWebsite: BNMPizza.com \nAddress: 1234 Pizza Place LA,CA 90000</string>
+    <string name="hours">Open \nM-F:12p-8p \nWeekends:11p-9p</string>
+    <string name="description">We sell clean pizzas with healthy ingredients that my mom already approved of so that kids can eat pizza <u>everyday</u> for just $5 per person!  And it\'s delivered by my mom so you know it\'s safe!</string>
+</resources>
